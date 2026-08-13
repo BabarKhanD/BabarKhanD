@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+intelligent+systems+at+the+edge+of+hardware+%26+AI;ESP32+%7C+CNNs+%7C+RAG+%7C+Computer+Vision+%7C+Robotics;Currently%3A+AI%2FML+Intern+at+Embotics+Pvt.+Ltd.+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+systems+at+the+edge+of+hardware+%26+AI;ESP32+%7C+CNNs+%7C+RAG+%7C+Computer+Vision+%7C+Robotics;Currently%3A+AI%2FML+Intern+at+Embotics+Pvt.+Ltd.+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
