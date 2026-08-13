@@ -2,14 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=260&section=header&text=Babar%20Khan%20Durrani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20Intelligent%20Systems%20%7C%20AI%20%2F%20ML%20%2F%20Embedded%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://www.linkedin.com/in/babarkhandurrani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kdurranibabar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/babar-khan-durrani-542a98277"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kdurranibabar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:01-139232-021@student.bahria.edu.pk"><img src="https://img.shields.io/badge/Outlook-Student_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
 <a href="https://github.com/BabarKhanD"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Location-Rawalpindi%2C_Pakistan-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+intelligent+systems+at+the+edge+of+hardware+%26+AI;ESP32+%7C+CNNs+%7C+RAG+%7C+Computer+Vision+%7C+Robotics;Final+Year+Project%3A+Sign+Language+Recognition+Glove+%F0%9F%A7%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+intelligent+systems+at+the+edge+of+hardware+%26+AI;ESP32+%7C+CNNs+%7C+RAG+%7C+Computer+Vision+%7C+Robotics;Currently%3A+AI%2FML+Intern+at+Embotics+Pvt.+Ltd.+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -21,17 +22,17 @@
 name: "Babar Khan Durrani"
 role: "BS Robotics & Intelligent Systems — Bahria University (Sep 2023 – Mar 2027)"
 focus: ["Embedded Systems", "Applied Machine Learning", "Computer Vision", "Generative AI"]
-currently_building: "Somatosensory Glove for Pakistani Sign Language Recognition (IEEE ICET 2026)"
+currently_building: "AI Teacher Robot — Offline RAG Pipeline (Embotics Pvt. Ltd.)"
 languages_spoken: ["Pashto (Native)", "Urdu (Fluent)", "English (Fluent)", "Punjabi (Intermediate)"]
 philosophy: "Turn theory into hardware that actually works, and models that actually ship."
 ```
 
-I'm a final-year Robotics & Intelligent Systems undergraduate who lives at the intersection of **embedded hardware** and **applied AI** — from flex-sensor gloves and IMUs to CNNs, RAG pipelines, and locally-hosted LLMs. I like projects that are fully functional end-to-end: sensor → signal → model → real-world output.
+I'm a final-year Robotics & Intelligent Systems undergraduate who lives at the intersection of **embedded hardware** and **applied AI** — from sensors and microcontrollers to CNNs, RAG pipelines, and locally-hosted LLMs. I like projects that are fully functional end-to-end: sensor → signal → model → real-world output.
 
-- 🔭 **Currently working on:** an ESP32-based smart glove that translates Pakistani Sign Language into Urdu speech in real time — fully offline, BLE-based, submitted to **IEEE ICET 2026**
+- 🔭 **Currently working on:** an offline RAG-based AI Teacher Robot at **Embotics Pvt. Ltd.**, combining OCR, vector search, and a locally-hosted LLM
 - 🌱 **Currently exploring:** Retrieval-Augmented Generation, local LLM deployment, and vision transformers for medical imaging
 - 🤝 **Open to:** internships & junior roles in Robotics, AI/ML, and Automation
-- ⚡ **Fun fact:** I've written and submitted two solo IEEE papers using nothing but manually-written analysis — no AI-generated text, by policy
+- ⚡ **Fun fact:** I've written and submitted two solo IEEE conference papers using nothing but manually-written analysis — no AI-generated text, by policy
 
 <br/>
 
@@ -83,14 +84,14 @@ I'm a final-year Robotics & Intelligent Systems undergraduate who lives at the i
 <tr>
 <td width="50%" valign="top">
 
-### 🧤 PSL Smart Glove *(Final Year Project)*
-**Somatosensory glove for Pakistani Sign Language → Urdu speech**
-- ESP32 + flex sensors + FSRs + GY-87 IMU
-- CNN/GRU deep learning pipeline
-- 100% offline, BLE-only architecture
-- Targeting **IEEE ICET 2026 @ GIKI**
+### 🤖 AI Teacher Robot *(Embotics Pvt. Ltd.)*
+**Fully offline RAG pipeline for a Class 5 Social Studies textbook**
+- OCR + FAISS vector index (111 chunks, BGE embeddings)
+- Local LLM answer generation via Ollama (`qwen2.5:1.5b`)
+- RAG vs No-RAG benchmarking on 50 test questions
+- Automated batch-testing pipeline with full performance logging
 
-`ESP32` `TensorFlow` `Signal Processing` `BLE`
+`FAISS` `Ollama` `OCR` `RAG` `Python`
 
 </td>
 <td width="50%" valign="top">
@@ -166,18 +167,29 @@ I'm a final-year Robotics & Intelligent Systems undergraduate who lives at the i
 
 <br/>
 
-## 🎓 Research & Publications
-
-- 📄 **Dengue Forecasting using LSTM** — submitted to *ICoDT2-2026, NUST*
-- 📄 **TB / Hepatitis C / Malaria Prediction Models** — submitted to *FIT-2026, COMSATS*
-- 📄 **AUV Sensor Fusion System** — full simulation audit & fusion baseline correction
-- 📄 **PSL Smart Glove for Sign Language Recognition** — targeting *IEEE ICET 2026, GIKI*
-
-<br/>
-
 ## 💼 Experience
 
 ```text
+AI & Machine Learning Intern — Embotics Pvt. Ltd.                          Present
+  Project: AI Teacher Robot (Offline RAG Pipeline)
+  → Reviewed OCR & vector-index architecture; used it as the build blueprint
+  → Built an OCR + FAISS vector database for a 112-page scanned textbook
+    (image cleanup, Tesseract OCR, text cleaning, overlap-based chunking
+    into 111 chunks, metadata tagging, BAAI/bge-small-en-v1.5 embeddings)
+  → Set up Ollama locally, diagnosed and fixed a Vulkan-related crash by
+    forcing CPU-only inference; deployed qwen2.5:0.5b and qwen2.5:1.5b
+  → Built a full local RAG script (rag.py) with retrieval, LLM answer
+    generation, and per-query performance tracking (latency, tokens/sec,
+    CPU/RAM usage)
+  → Built a No-RAG comparison script to benchmark hallucination and
+    accuracy against the RAG pipeline
+  → Created a 50-question test set spanning all 6 textbook units, with
+    expected answers and page references
+  → Built an automated batch-testing script to run all 50 questions through
+    both pipelines and log results to CSV for evaluation
+  → Researched microphone/speaker hardware options for voice I/O on a
+    Raspberry Pi-based deployment
+
 AI & Machine Learning Intern — Developer Hub Corporation (Remote)         Jul 2025 – Aug 2025
   → Built & evaluated ML models for predictive analytics on structured datasets
   → Performed EDA, preprocessing, and model validation
@@ -229,7 +241,8 @@ I'm always up for a conversation about robotics, embedded AI, or cool ideas wort
 Reach out — I reply fast.
 
 <a href="mailto:kdurranibabar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/babarkhandurrani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:01-139232-021@student.bahria.edu.pk"><img src="https://img.shields.io/badge/Outlook-Student_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/babar-khan-durrani-542a98277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="tel:+923348919289"><img src="https://img.shields.io/badge/Phone-+92_334_891_9289-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/><br/>
