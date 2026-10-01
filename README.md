@@ -32,7 +32,6 @@ I'm a final-year Robotics & Intelligent Systems undergraduate who lives at the i
 - 🔭 **Currently working on:** an offline RAG-based AI Teacher Robot at **Embotics Pvt. Ltd.**, combining OCR, vector search, and a locally-hosted LLM
 - 🌱 **Currently exploring:** Retrieval-Augmented Generation, local LLM deployment, and vision transformers for medical imaging
 - 🤝 **Open to:** internships & junior roles in Robotics, AI/ML, and Automation
-- ⚡ **Fun fact:** I've written and submitted two solo IEEE conference papers using nothing but manually-written analysis — no AI-generated text, by policy
 
 <br/>
 
