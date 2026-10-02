@@ -20,7 +20,7 @@
 
 ```yaml
 name: "Babar Khan Durrani"
-role: "BS Robotics & Intelligent Systems — Bahria University (Sep 2023 – Mar 2027)"
+role: "BS Robotics & Intelligent Systems — Bahria University"
 focus: ["Embedded Systems", "Applied Machine Learning", "Computer Vision", "Generative AI"]
 currently_building: "AI Teacher Robot — Offline RAG Pipeline (Embotics Pvt. Ltd.)"
 languages_spoken: ["Pashto (Native)", "Urdu (Fluent)", "English (Fluent)", "Punjabi (Intermediate)"]
